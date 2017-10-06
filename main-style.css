@@ -22,10 +22,10 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
 
-    box-shadow: 3px 3px 2px #888888;
+    box-shadow: 3px 3px 2px #111111;
     border-style: solid;
     border-color: grey;
-    border-width: 1px;
+    border-width: thin;
 
     min-height: 900px;
 }
