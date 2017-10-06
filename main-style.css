@@ -1,0 +1,39 @@
+
+body {
+
+    background: url('logo2.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #dddddd;
+}
+
+.profile-picture {
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    max-width: 200px;
+    max-height: 200px;
+    box-shadow: 3px 3px 2px #888888;
+}
+
+.page-box {
+    background-color: #ffffff;
+    margin-top: 20px;
+
+    box-shadow: 3px 3px 2px #888888;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+
+    min-height: 900px;
+}
+
+.break-line {
+    width: 90%;
+}
+.standout {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
