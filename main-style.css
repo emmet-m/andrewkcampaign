@@ -37,3 +37,29 @@ body {
     margin-top: 35px;
     margin-bottom: 35px;
 }
+
+.votebtn {
+	background: default;
+	border: none;
+    box-shadow: 2px 2px 2px #888888;
+	border-radius: 0.01em;
+	padding: 1em;
+	background-color: #2176ff;
+	color: #ffffff;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.button-pad {
+	margin-top: 5em;
+	margin-bottom: 5em;
+}
+
+.votebtn:hover { 
+	color: #ffffff;
+}
+
+.votebtn:active {
+    box-shadow: none;
+	color: #ffffff;
+}
