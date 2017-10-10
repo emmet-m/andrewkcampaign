@@ -1,11 +1,10 @@
 body {
 
-    background: url('logo4.jpg') no-repeat center center fixed; 
+    background: linear-gradient(141deg, #ffd700 0%, #ff875b 51%, #ff0000 75%);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-color: #dddddd;
 }
 
 .profile-picture {
