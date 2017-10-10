@@ -63,3 +63,7 @@ body {
     box-shadow: none;
 	color: #ffffff;
 }
+
+.cover-photo {
+	width: 100%;
+}
